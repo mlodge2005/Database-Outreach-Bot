@@ -1,0 +1,10 @@
+# Node.js Dependencies
+# Install with: npm install
+
+dotenv@^16.3.1
+googleapis@^126.0.1
+playwright@^1.40.0
+
+# Note: This is a Node.js project. The dependencies are managed via package.json.
+# Run 'npm install' to install all dependencies.
+
